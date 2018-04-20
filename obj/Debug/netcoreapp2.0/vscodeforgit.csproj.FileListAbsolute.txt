@@ -1,0 +1,10 @@
+E:\vscodeforgit\bin\Debug\netcoreapp2.0\vscodeforgit.deps.json
+E:\vscodeforgit\bin\Debug\netcoreapp2.0\vscodeforgit.runtimeconfig.json
+E:\vscodeforgit\bin\Debug\netcoreapp2.0\vscodeforgit.runtimeconfig.dev.json
+E:\vscodeforgit\bin\Debug\netcoreapp2.0\vscodeforgit.dll
+E:\vscodeforgit\bin\Debug\netcoreapp2.0\vscodeforgit.pdb
+E:\vscodeforgit\obj\Debug\netcoreapp2.0\vscodeforgit.csproj.CoreCompileInputs.cache
+E:\vscodeforgit\obj\Debug\netcoreapp2.0\vscodeforgit.AssemblyInfoInputs.cache
+E:\vscodeforgit\obj\Debug\netcoreapp2.0\vscodeforgit.AssemblyInfo.cs
+E:\vscodeforgit\obj\Debug\netcoreapp2.0\vscodeforgit.dll
+E:\vscodeforgit\obj\Debug\netcoreapp2.0\vscodeforgit.pdb
